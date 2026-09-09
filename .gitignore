@@ -1,0 +1,9 @@
+/_bakeresourcecache/
+*bakeresourcecache.vpk
+__pycache__
+
+alyxlib/
+game/hlvr_addons/collab/scripts/vscripts/alyxlib
+game/hlvr_addons/collab/scripts/vscripts/game/gameinit.lua
+.vscode/alyxlib.code-snippets
+.vscode/vlua_snippets.code-snippets
