@@ -1,0 +1,1 @@
+/home/sunny/Projects/alyx/panorama/scripts/custom_game/panorama_lua.js
