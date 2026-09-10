@@ -6,5 +6,5 @@ if IsServer() then
     require("alyxlib.init")
 
     -- execute code or load mod libraries here
-
+    Msg("hiii :3")
 end
